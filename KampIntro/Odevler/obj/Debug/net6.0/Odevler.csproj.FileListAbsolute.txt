@@ -1,0 +1,15 @@
+C:\Users\aslid\source\repos\KampIntro\Odevler\bin\Debug\net6.0\Odevler.exe
+C:\Users\aslid\source\repos\KampIntro\Odevler\bin\Debug\net6.0\Odevler.deps.json
+C:\Users\aslid\source\repos\KampIntro\Odevler\bin\Debug\net6.0\Odevler.runtimeconfig.json
+C:\Users\aslid\source\repos\KampIntro\Odevler\bin\Debug\net6.0\Odevler.dll
+C:\Users\aslid\source\repos\KampIntro\Odevler\bin\Debug\net6.0\Odevler.pdb
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.csproj.AssemblyReference.cache
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.AssemblyInfoInputs.cache
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.AssemblyInfo.cs
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.csproj.CoreCompileInputs.cache
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.dll
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\refint\Odevler.dll
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.pdb
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\Odevler.genruntimeconfig.cache
+C:\Users\aslid\source\repos\KampIntro\Odevler\obj\Debug\net6.0\ref\Odevler.dll
