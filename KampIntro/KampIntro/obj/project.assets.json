@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aslid\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj",
+      "projectUniqueName": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\KampIntro\\KampIntro.csproj",
       "projectName": "KampIntro",
-      "projectPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj",
+      "projectPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\KampIntro\\KampIntro.csproj",
       "packagesPath": "C:\\Users\\aslid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\KampIntro\\obj\\",
+      "outputPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\KampIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aslid\\AppData\\Roaming\\NuGet\\NuGet.Config",

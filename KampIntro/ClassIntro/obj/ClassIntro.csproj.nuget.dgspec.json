@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aslid\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aslid\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj": {
+    "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aslid\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\aslid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\ClassIntro\\obj\\",
+        "outputPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aslid\\AppData\\Roaming\\NuGet\\NuGet.Config",

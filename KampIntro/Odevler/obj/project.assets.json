@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Odevler\\Odevler.csproj",
+      "projectUniqueName": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Odevler\\Odevler.csproj",
       "projectName": "Odevler",
-      "projectPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Odevler\\Odevler.csproj",
+      "projectPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Odevler\\Odevler.csproj",
       "packagesPath": "C:\\Users\\aslid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Odevler\\obj\\",
+      "outputPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Odevler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aslid\\AppData\\Roaming\\NuGet\\NuGet.Config",

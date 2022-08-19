@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aslid\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj": {}
+    "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aslid\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj": {
+    "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Donguler\\Donguler.csproj",
         "projectName": "Donguler",
-        "projectPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj",
+        "projectPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\aslid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aslid\\source\\repos\\KampIntro\\Donguler\\obj\\",
+        "outputPath": "C:\\Users\\aslid\\Desktop\\Kamp\\KampIntro\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aslid\\AppData\\Roaming\\NuGet\\NuGet.Config",
