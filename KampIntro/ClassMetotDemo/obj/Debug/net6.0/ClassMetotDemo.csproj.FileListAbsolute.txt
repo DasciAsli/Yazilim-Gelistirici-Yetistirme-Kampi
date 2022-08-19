@@ -1,0 +1,15 @@
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\refint\ClassMetotDemo.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll

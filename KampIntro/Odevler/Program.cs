@@ -5,6 +5,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        //DERS2
+
         //ODEV1
         //C# dilinde bulunan diğer veri tipleri nelerdir?
 
@@ -145,34 +147,34 @@ internal class Program
         //Siz de Urun(Product) isimli bir class oluşturup, oluşturduğunuz bir kaç ürünü bir diziye ekleyiniz.
         //Ürünlerinizi for, foreach ve while döngüleri ile ayrı ayrı listeleyiniz.
 
-        Product urun1 = new Product();
-        urun1.UrunAdi = "Pantolon";
-        urun1.Fiyat = 230;
-        urun1.Renk = "Siyah";
+        //Product urun1 = new Product();
+        //urun1.UrunAdi = "Pantolon";
+        //urun1.Fiyat = 230;
+        //urun1.Renk = "Siyah";
 
-        Product urun2 = new Product();
-        urun2.UrunAdi = "Kazak";
-        urun2.Fiyat = 120;
-        urun2.Renk = "Mavi";
+        //Product urun2 = new Product();
+        //urun2.UrunAdi = "Kazak";
+        //urun2.Fiyat = 120;
+        //urun2.Renk = "Mavi";
 
-        Product urun3 = new Product();
-        urun3.UrunAdi = "Ayakkabı";
-        urun3.Fiyat = 280;
-        urun3.Renk = "Siyah";
+        //Product urun3 = new Product();
+        //urun3.UrunAdi = "Ayakkabı";
+        //urun3.Fiyat = 280;
+        //urun3.Renk = "Siyah";
 
-        Product[] Urunler = new Product[] { urun1,urun2,urun3 };
+        //Product[] Urunler = new Product[] { urun1,urun2,urun3 };
 
-        for (int i = 0; i < Urunler.Length; i++)
-        {
-            Console.WriteLine("***********************");
-            Console.WriteLine
-                (
-                "Urun Adı      :" + Urunler[i].UrunAdi + "\n" +
-                "Urun Fiyatı   :" + Urunler[i].Fiyat + "\n" +
-                "Urun Rengi    :" + Urunler[i].Renk
-                );
+        //for (int i = 0; i < Urunler.Length; i++)
+        //{
+        //    Console.WriteLine("***********************");
+        //    Console.WriteLine
+        //        (
+        //        "Urun Adı      :" + Urunler[i].UrunAdi + "\n" +
+        //        "Urun Fiyatı   :" + Urunler[i].Fiyat + "\n" +
+        //        "Urun Rengi    :" + Urunler[i].Renk
+        //        );
 
-        }
+        //}
 
         //foreach (var urun in Urunler)
         //{
@@ -199,8 +201,72 @@ internal class Program
 
         //    i++;
         //}
+
+        //DERS3
+
+        //ODEV2
+        //Ref ve Out Keywordleri 
+
+        //Ref Keywordü
+        //int number1 = 20;
+        //int number2 = 100;
+        //var result = Add( number1, number2);
+        //static int Add(int number1,int number2)
+        //{
+        //    number1 = 30;
+        //    return number1 +number2;
+
+        //}
+        //Console.WriteLine(number1);
+        //Sonuç 20dir
+        //Çünkü biz burada değer tipler ile çalışıyoruz(int olduğu için)
+        //Değer tiplerde mevzu tamamen değişkenin değeriyle ilgilidir.
+        //int number1 = 20;
+        //int number2 = 100;
+        //var result = Add(number1, number2);
+        //Burada Add metotunun parametresinde number1in değeri gidiyor parametrenin içine
+        //Add fonksiyonunun içinde ise yazdığımız int number1 farklı bir değişken tanımlamış oluyoruz
+        //İsimleri aynı olsa bile bunların alakası yoktur.
+        //20 değerini biz Addin parametresi olan number1'e vermiş olduk
+        //Yani fonksiyonun parametresiyle ilgili olan bir işlem dışardaki değişkeni değiştirmez.Çünkü aynı şey değiller.
+
+
+
+
+        //Fakat dışarıda tanımlanan number1 ile fonksiyondaki parametredeki number1in aynı olmasını istiyorsak ref keywordunu kullanıyoruz
+        //int number1 = 20;
+        //int number2 = 100;
+        //var result = Add(ref number1, number2);
+        //static int Add(ref int number1, int number2)
+        //{
+        //    number1 = 30;
+        //    return number1 + number2;
+
+        //}
+        //Console.WriteLine(number1);
+        //Sonuç 30dur
+
+
+        //Out Keywordü
+        //Ref'in bir alternatifi de out keywordüdür.
+
+        //int number1;//Refte burayı kesinlikle set etmiş olmamız gerekiyor ama outta böyle bi zorunluluk yok
+        //int number2 = 100;
+        //var result = Add(out number1, number2);
+        //static int Add(out int number1, int number2)
+        //{
+        //    number1 = 30; //Outta da kesinlikle burada tanımlama yapılmalı yoksa hata verir.
+        //    return number1 + number2;
+
+        //}
+        //Console.WriteLine(number1);
+
+
+        //ODEV3
+        //ClassMetotDemo isimli projede
+
     }
-    
+
 }
 class Product
 {
