@@ -1,0 +1,15 @@
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.exe
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.deps.json
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.pdb
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.pdb
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+C:\Users\aslid\Desktop\Kamp\KampIntro\OOP1\obj\Debug\net6.0\ref\OOP1.dll
