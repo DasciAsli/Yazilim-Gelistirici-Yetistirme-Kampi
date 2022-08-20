@@ -265,13 +265,80 @@ internal class Program
         //ODEV3
         //ClassMetotDemo isimli projede
 
+        //DERS4
+
+        //ODEV4
+        //Dictionary Koleksiyonu
+        //Normalde dizi ve arraylist elemanlarında index numarası ve değer kavramları vardır.
+        //index numarası ile o indexe denk gelen değeri buluruz.
+        //Ancak dictionary yapısında index,değer kavramlarının yerini key(index numarası) ve value(index numarasıyla belirtilen değer) almıştır.
+        //key yani anahtar benzersiz olmak şartıyla int,string,object vb olabilir.
+
+        //Dictionary<int,string> sehirler = new Dictionary<int, string>();
+
+        //sehirler.Add(1, "Adana");
+        //sehirler.Add(2, "Adıyaman");
+        //sehirler.Add(3, "Afyon");
+
+        //Console.WriteLine(sehirler[1]); //Adana cevap
+
+        //foreach (var sehir in sehirler)
+        //{
+        //    Console.WriteLine(sehir.Key + " : " + sehir.Value);
+        //}
+
+        //ODEV5
+        MyDictionary<int, string> sözlük = new MyDictionary<int, string>();
+        sözlük.Add(1, "Adana");
+        sözlük.Add(2, "Adıyaman");
+        sözlük.Listele();
+
     }
 
 }
-class Product
-{
-    public string UrunAdi { get; set; }
-    public double Fiyat { get; set; }
-    public string Renk { get; set; }
+//class Product
+//{
+//    public string UrunAdi { get; set; }
+//    public double Fiyat { get; set; }
+//    public string Renk { get; set; }
 
+//}
+
+
+class MyDictionary<T, Y>
+{
+    T[] dizi1;
+    Y[] dizi2;
+
+    public MyDictionary()
+    {
+        dizi1 = new T[] { };
+        dizi2 = new Y[] { };
+
+    }
+    public void Add(T item1, Y item2)
+    {
+        T[] tempArray1 = dizi1;
+        Y[] tempArray2 = dizi2;
+        dizi1 = new T[dizi1.Length + 1];
+        dizi2 = new Y[dizi2.Length + 1];
+        for (int i = 0; i < tempArray1.Length; i++)
+        {
+            dizi1[i] = tempArray1[i];
+        }
+        for (int j = 0; j < tempArray2.Length; j++)
+        {
+            dizi2[j] = tempArray2[j];
+        }
+        dizi1[dizi1.Length - 1] = item1;
+        dizi2[dizi2.Length - 1] = item2;
+
+    }
+    public void Listele()
+    {
+        for (int i = 0; i < dizi1.Length; i++)
+        {
+            Console.WriteLine(dizi1[i] + " : " + dizi2[i]);
+        }
+    }
 }
