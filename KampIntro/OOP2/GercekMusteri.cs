@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP2
+{
+    internal class GercekMusteri :Musteri
+    {
+        public string TcNo { get; set; } //Sayılardan oluşur ancak bu veri üzerinde matematiksel işlem yapmadığımız için string vermemiz daha mantıklı
+        public string Adi { get; set; }
+        public string Soyadi { get; set; }
+    }
+}
