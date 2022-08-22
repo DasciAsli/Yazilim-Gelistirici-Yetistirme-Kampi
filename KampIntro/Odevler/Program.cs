@@ -296,9 +296,44 @@ internal class Program
         //ODEV5
         //Solutionda MyDictionary'nin içinde başka bir yol ile kendi dictionary koleksiyonumu oluşturdum 
 
-    }
+        //DERS5
+        //ODEV3
+        //Abstract sınıflar
+        //Ezme işlemini zorunlu kılar
+        //Abstract ile işaretlenen metot ya da propertyler bu sınıftan kalıtım alan her sınıfta uygulanmak zorundadır.
+        //Abstract sınıf içerisinde abtsract elemanlar tanımlanırken sadece imzaları yazılır.
+        //Abstract elemanlar private olamazlar,public ya da protected olmalıdırlar.
+        //İçinde herhangi bir abstract eleman olan sınıfın kendisi de abstract olmalıdır.
+        //Abstract bir classın içinde abstract olmayan yapılar da bulunabilir.
+        //Abstract classlardan nesne yaratılmaz
+
+       
+
 
 }
+    //class MyClass2 : MyClass
+    //{
+    //    public override int MyProperty2 { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    //    public override void Y()
+    //    {
+    //        throw new NotImplementedException();
+    //    }
+    //}
+
+
+    //abstract class MyClass
+    //{
+    //    public void X() { }
+    //    public int MyProperty { get; set; }
+    //    abstract public void Y(); //abstract olduğu için içini dolduramayız.
+    //    abstract public int MyProperty2 { get; set;}
+
+
+    //}
+
+}
+
+
 //class Product
 //{
 //    public string UrunAdi { get; set; }
@@ -345,3 +380,4 @@ internal class Program
 //        }
 //    }
 //}
+
